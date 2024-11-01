@@ -10,7 +10,7 @@
 
 -----
 
-![profile count](![](https://komarev.com/ghpvc/?username=adityanandancse&color=green))&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=adityanandancse&color=green) &nbsp;
 [![GitHub adityanandancse](https://img.shields.io/github/followers/adityanandancse?label=follow&style=social)](https://github.com/adityanandancse)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
