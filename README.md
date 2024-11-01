@@ -37,7 +37,7 @@
 -----  
 
 
-<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
+//<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
 
 | Repository Name      | Description | 
 | :---:        |    :----   |  
