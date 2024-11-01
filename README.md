@@ -15,11 +15,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Hello everyone,I'm 2024 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.
-
 🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
 ✍️ &nbsp;Apart from technical interests, I like rapping, poetry, reading journals.\
 💬 &nbsp;Feel free to reach out to me for general tech discussions. \
-✉️ &nbsp;You can email me at cse.adityanandan@gmail.com. I'll be responsive!\
+✉️ &nbsp;You can email me at cse.adityanandan@gmail.com. I'll be responsive! \
 
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
