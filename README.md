@@ -23,7 +23,7 @@
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
 -----
-### 📫 &nbsp; How to reach me:
+### 📫 &nbsp; Find me on:
 
 
 
