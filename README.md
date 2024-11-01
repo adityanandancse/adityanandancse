@@ -18,7 +18,7 @@
 🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
 ✍️ &nbsp;Apart from technical interests, I like rapping, poetry, reading journals.\
 💬 &nbsp;Feel free to reach out to me for general tech discussions. \
-✉️ &nbsp;You can email me at cse.adityanandan@gmail.com. I'll be responsive!.\
+✉️ &nbsp;You can email me at cse.adityanandan@gmail.com. I'll be responsive!.
 
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
