@@ -105,6 +105,6 @@
  </div>
  
  
-<img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinash201199&&show_icons=true&theme=dark" width="50%" />
+<img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityanandancse&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanandancse&layout=compact&theme=dark" width="46%" />
 <br>
