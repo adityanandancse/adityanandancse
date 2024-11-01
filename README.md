@@ -14,12 +14,12 @@
 [![GitHub adityanandancse](https://img.shields.io/github/followers/adityanandancse?label=follow&style=social)](https://github.com/adityanandancse)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.
+💡 &nbsp; Hello everyone,I'm 2024 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.
 
 🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
-✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
-✉️ &nbsp;You can email me at avinash201199@gmail.com. I'll try to respond as soon as possible!\
+✍️ &nbsp;Apart from technical interests, I like rapping, poetry, reading journals.\
+💬 &nbsp;Feel free to reach out to me for general tech discussions. \
+✉️ &nbsp;You can email me at cse.adityanandan@gmail.com. I'll be responsive!\
 
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
@@ -28,11 +28,11 @@
 
 
 
-<a href="https://www.linkedin.com/in/avinash-singh-071b79175/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/michael201199/"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/theadityanandan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/adityaallyours/"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="mailto:avinash201199@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.hackerrank.com/avinash201199"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
-<a href="https://leetcode.com/avinash201199/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
+<a href="https://www.hackerrank.com/profile/cse_adityanandan"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
+<a href="[https://leetcode.com/u/Adityanandancse/]"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
 
 -----  
 
@@ -100,11 +100,11 @@
 
 <div align="center">
   
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=avinash201199&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=adityanandancse&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
  </div>
  
  
-<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinash201199&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash201199&layout=compact&theme=dark" width="46%" />
+<img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinash201199&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanandancse&layout=compact&theme=dark" width="46%" />
 <br>
