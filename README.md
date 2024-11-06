@@ -87,6 +87,7 @@
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
  
  
   
