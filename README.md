@@ -50,14 +50,16 @@
 
 
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Projects/Repos</h1>
 
 </div>
 <div  align="center">
+
  
 <a href="https://adityanandan-gamma.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=Aditya_portfolio&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://fdcalculator-five.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=FD-Calculator-JS&show_icons=true&theme=great-gatsby" ></a>
-<!--<a href="https://avinash201199.github.io/To-Do-List/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=To-Do-List&show_icons=true&theme=great-gatsby"></a>
+<a href="https://leetcode.com/u/Adityanandancse/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=leetcode&show_icons=true&theme=great-gatsby"></a>
+<!--
 <a href="https://meme-generator-three-psi.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=MemeGenerator&show_icons=true&theme=great-gatsby"></a>-->
 
 </div>
