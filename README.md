@@ -58,7 +58,7 @@
  
 <a href="https://adityanandan-gamma.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=Aditya_portfolio&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://fdcalculator-five.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=FD-Calculator-JS&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://leetcode.com/leetcode/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=leetcode&show_icons=true&theme=great-gatsby"></a>
+<a href="https://github.com/adityanandancse/Leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=leetcode&show_icons=true&theme=great-gatsby"></a>
 <!--
 <a href="https://meme-generator-three-psi.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=MemeGenerator&show_icons=true&theme=great-gatsby"></a>-->
 
