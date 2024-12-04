@@ -42,9 +42,7 @@
 | [Leetcode POTD](https://github.com/adityanandancse/Leetcode) | Daily solutions to LeetCode's Problem of the Day, implemented in C++ and Java. Aiming for clean, efficient, and well-documented code to tackle diverse algorithmic challenges. |
 | [30-Days of Javascript - Leetcode](https://github.com/adityanandancse/30-Days-of-Javascript-Leetcode) | This repository contains solution of 30 Days of JavaScript. Go ahead and add more answers in your knowledge. |
 | [Free courses with certificate](https://free-courses-with-certificates.netlify.app/) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
-| [FD-Calculator](https://github.com/adityanandancse/FD-Calculator-JS)    | This is a javascript FD-Calculator App , you can contribute to this project by adding some extra feature or by improving UI/UX.  
-<!--
-| [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.-->
+| [FD-Calculator](https://github.com/adityanandancse/FD-Calculator-JS)    | This is a javascript FD-Calculator App , you can contribute to this project by adding some extra feature or by improving UI/UX.
 
 
 
