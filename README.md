@@ -106,6 +106,7 @@
 <div align="center">
   
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=adityanandancse&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adityanandancse1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
  </div>
  
