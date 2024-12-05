@@ -56,7 +56,7 @@
  
 <a href="https://adityanandan-gamma.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=Aditya_portfolio&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://fdcalculator-five.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=FD-Calculator-JS&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://github.com/adityanandancse/Leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=leetcode&show_icons=true&theme=great-gatsby"></a>
+<a href="https://github.com/adityanandancse/Leetcode-POTD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=leetcode-POTD&show_icons=true&theme=great-gatsby"></a>
 <a href="https://github.com/adityanandancse/30-Days-of-Javascript-Leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=30-Days-of-Javascript-Leetcode&show_icons=true&theme=great-gatsby"></a>
 <a href="https://url-shortener-peach-three.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=URL_Shortener&show_icons=true&theme=great-gatsby"></a>
 
