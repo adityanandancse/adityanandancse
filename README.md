@@ -105,7 +105,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adityanandancse)](https://git.io/streak-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adityanandancse&theme=flag-india)](https://git.io/streak-stats)
 
  </div>
