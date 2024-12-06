@@ -59,6 +59,7 @@
 <a href="https://github.com/adityanandancse/Leetcode-POTD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=leetcode-POTD&show_icons=true&theme=great-gatsby"></a>
 <a href="https://github.com/adityanandancse/30-Days-of-Javascript-Leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=30-Days-of-Javascript-Leetcode&show_icons=true&theme=great-gatsby"></a>
 <a href="https://url-shortener-peach-three.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=URL_Shortener&show_icons=true&theme=great-gatsby"></a>
+<a href="https://github.com/adityanandancse/Javascript-Concepts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=Javascript-Concepts&show_icons=true&theme=great-gatsby"></a>
 
 
 </div>
