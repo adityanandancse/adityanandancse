@@ -113,7 +113,7 @@
 <h1 align="center">Statistics</h1>
 <div align="center">
   <a href="https://github.com/adityanandancse">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityanandancse&theme=aura_dark" height="150em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityanandancse&theme=aura_dark" height="150em" width="600em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityanandancse&theme=aura_dark" height="150em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityanandancse&theme=aura_dark" height="150em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityanandancse&theme=aura_dark" height="150em" />
