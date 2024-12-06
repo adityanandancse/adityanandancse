@@ -104,19 +104,16 @@
 <h1 align="center">Github Stats</h1>
 <div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=adityanandancse&theme=flag-india)](https://git.io/streak-stats)
-</div>
+
  
  
-<img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityanandancse&&show_icons=true&theme=dark" width="46%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanandancse&layout=compact&theme=dark" width="46%" />
-<br>
-<h1 align="center">Statistics</h1>
-<div align="center">
+<!-- <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityanandancse&&show_icons=true&theme=dark" width="46%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanandancse&layout=compact&theme=dark" width="46%" />-->
   <a href="https://github.com/adityanandancse">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityanandancse&theme=aura_dark" height="150em" width="600em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityanandancse&theme=aura_dark" height="150em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityanandancse&theme=aura_dark" height="150em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityanandancse&theme=aura_dark" height="150em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityanandancse&theme=aura_dark&utcOffset=8" height="150em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityanandancse&theme=aura_dark" height="150em" width="600em" /> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityanandancse&theme=aura_dark" height="150em" width="600em"  />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityanandancse&theme=aura_dark&utcOffset=8" height="150em" width="600em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityanandancse&theme=aura_dark" height="150em" width="600em"  />
   </a>
-</div>
+  </div>
+
