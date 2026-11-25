@@ -1,116 +1,95 @@
-### Hello! I'm Aditya Nandan  👋 
+<div align="center">
 
------
+<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%" alt="banner" />
 
-<p align="center">
- 
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+# Hi, I'm Aditya Nandan 👋
 
-</p>
-
------
-
-![profile count](https://komarev.com/ghpvc/?username=adityanandancse&color=green) &nbsp;
-[![GitHub adityanandancse](https://img.shields.io/github/followers/adityanandancse?label=follow&style=social)](https://github.com/adityanandancse)&nbsp;
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp; Hello everyone,I'm 2024 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.\
-🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
-✍️ &nbsp;Apart from technical interests, I like rapping, poetry, reading journals.\
-💬 &nbsp;Feel free to reach out to me for general tech discussions. \
-✉️ &nbsp;You can email me at cse.adityanandan@gmail.com. I'll be responsive!
-
-### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
-
------
-### 📫 &nbsp; Find me on:
-
-
-
-<a href="https://www.linkedin.com/in/theadityanandan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:cse.adityanandan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.hackerrank.com/profile/cse_adityanandan"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
-<a href="https://leetcode.com/u/Adityanandancse/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
-
------  
-
-
-<h1 align="center">Mostly Used Repos:🤩</h1>
-
-| Repository Name      | Description | 
-| :---:        |    :----   |  
-| [Leetcode POTD](https://github.com/adityanandancse/Leetcode) | Daily solutions to LeetCode's Problem of the Day, implemented in C++ and Java. Aiming for clean, efficient, and well-documented code to tackle diverse algorithmic challenges. |
-| [30-Days of Javascript - Leetcode](https://github.com/adityanandancse/30-Days-of-Javascript-Leetcode) | This repository contains solution of 30 Days of JavaScript. Go ahead and add more answers in your knowledge. |
-| [Free courses with certificate](https://free-courses-with-certificates.netlify.app/) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
-| [FD-Calculator](https://github.com/adityanandancse/FD-Calculator-JS)    | This is a javascript FD-Calculator App , you can contribute to this project by adding some extra feature or by improving UI/UX.
-
-
-
-
-
-<h1 align="center">Projects/Repos</h1>
-
-</div>
-<div  align="center">
-
- 
-<a href="https://github.com/adityanandancse/Aditya_portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=Aditya_portfolio&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://github.com/adityanandancse/FD-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=FD-Calculator-JS&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://github.com/adityanandancse/Leetcode-POTD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=leetcode-POTD&show_icons=true&theme=great-gatsby"></a>
-<a href="https://github.com/adityanandancse/30-Days-of-Javascript-Leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=30-Days-of-Javascript-Leetcode&show_icons=true&theme=great-gatsby"></a>
-<a href="https://github.com/adityanandancse/URL_Shortener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=URL_Shortener&show_icons=true&theme=great-gatsby"></a>
-<a href="https://github.com/adityanandancse/Javascript-Concepts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=Javascript-Concepts&show_icons=true&theme=great-gatsby"></a>
-
-
-</div>
-
-
-
-### Languages and Tools
+<a href="https://github.com/adityanandancse">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Building+ERPs%2C+B2B+apps+%26+shop-floor+tools;React+%E2%80%A2+TypeScript+%E2%80%A2+Supabase+%E2%80%A2+Cloudflare" alt="Typing SVG" />
+</a>
 
 <p>
- 
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
- 
- 
-  
- 
- 
- -----
-  
+  <a href="https://www.linkedin.com/in/theadityanandan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:cse.adityanandan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Adityanandancse/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/profile/cse_adityanandan"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=adityanandancse&color=7aa2f7&style=flat-square&label=Profile+views" />
 
+</div>
 
-<h1 align="center">Github Stats</h1>
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-<!-- <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityanandancse&&show_icons=true&theme=dark" width="46%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanandancse&layout=compact&theme=dark" width="46%" />-->
-  <a href="https://github.com/adityanandancse">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityanandancse&theme=aura_dark" height="150em" width="600em" /> 
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityanandancse&theme=aura_dark" height="150em" width="600em"  />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityanandancse&theme=aura_dark&utcOffset=8" height="150em" width="600em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityanandancse&theme=aura_dark" height="150em" width="600em"  />
-  </a>
-  </div>
+---
 
+## 👨🏻‍💻 About Me
+
+- 🛠️ **Lead Software Engineer** at Good Omen Ventures — building an ERP, a B2B fabric catalogue and shop-floor apps for a fashion & textile business
+- 🚀 **Founder** of Aditeraction — a studio for side projects and experiments
+- 🎓 B.Tech CSE, 2024
+- 🔭 Open to **SDE / FDE / Founder's Office** roles
+- 🌱 Love sharing resources and helping people get into tech
+- ✍️ Off-screen: rap, poetry and reading journals
+- 📫 Reach me at **cse.adityanandan@gmail.com**
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages & Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,js,java,cpp,python,react,tailwind,html,css,bootstrap&perline=10" />
+
+**Backend, Data & Cloud**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,supabase,mongodb,mysql,firebase,cloudflare,aws,gcp,azure,docker,git,wordpress&perline=7" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/adityanandancse/Aditya_portfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=Aditya_portfolio&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/adityanandancse/URL_Shortener"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=URL_Shortener&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/adityanandancse/Leetcode"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=Leetcode&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/adityanandancse/30-Days-of-Javascript-Leetcode"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=30-Days-of-Javascript-Leetcode&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/adityanandancse/Javascript-Concepts"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=Javascript-Concepts&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/adityanandancse/FD-Calculator-JS"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityanandancse&repo=FD-Calculator-JS&theme=tokyonight&hide_border=true" /></a>
+
+</div>
+
+| Project | What it is |
+| :-- | :-- |
+| 🧩 [**LeetCode POTD**](https://github.com/adityanandancse/Leetcode) | Daily Problem of the Day solutions in C++ and Java — clean, efficient, documented |
+| ⚡ [**30 Days of JavaScript**](https://github.com/adityanandancse/30-Days-of-Javascript-Leetcode) | Solutions to LeetCode's 30 Days of JS — contributions welcome |
+| 🎓 [**Free Courses with Certificates**](https://free-courses-with-certificates.netlify.app/) | Curated list of free courses that award certificates |
+| 💰 [**FD Calculator**](https://github.com/adityanandancse/FD-Calculator-JS) | Fixed-deposit calculator in JavaScript — open for UI/UX and feature PRs |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=adityanandancse&theme=tokyonight&hide_border=true" width="80%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityanandancse&theme=tokyonight" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityanandancse&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityanandancse&theme=tokyonight" width="49%" />
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ If something here helped you, a star goes a long way!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=100&section=footer" width="100%" />
+
+</div>
